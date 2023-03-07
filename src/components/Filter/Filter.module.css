@@ -1,0 +1,12 @@
+.filter__label {
+    display: contents;
+}
+
+.filter__input {
+    height: 25px;
+    border-radius: 7px;
+    padding: 0 7px;
+    cursor: pointer;
+    border-color: rgb(87, 90, 94);
+    width: 300px;
+}

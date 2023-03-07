@@ -1,0 +1,13 @@
+.contact__item {
+    display: flex;
+    align-items: center;
+    width: 300px;
+}
+
+.btn__list {
+    margin-left: auto;
+    border-radius: 7px;
+    border-color: transparent;
+    background-color: rgb(190, 66, 66);
+    cursor: pointer;
+}
